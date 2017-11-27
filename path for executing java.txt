@@ -1,0 +1,2 @@
+
+java -Djava.library.path="C:\Program Files\Microsoft SQL Server JDBC Driver\sqljdbc_4.0\enu\auth\x64" DBConnectMain
